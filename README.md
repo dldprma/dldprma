@@ -2,7 +2,7 @@
 
  ## 👀 About Me
   #### :raising_hand: I am a Full-stack engineer from South Korea.<br/>
-  #### :seedling: > From interior design to system design – I craft user-centered full-stack solutions.
+  #### :seedling: From interior design to system design – I craft user-centered full-stack solutions.
   <br/>
   <br/>
 
