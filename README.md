@@ -10,8 +10,10 @@
  #### Language
  #### Library
  #### Framework
- ### ETC
+ #### ETC
   <br/>
   <br/>
-  ## 💥 Github Stats
+  ## 💥 GitHub Stats Card
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldprma)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldprma)](https://github.com/anuraghazra/github-readme-stats)
